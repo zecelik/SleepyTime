@@ -9,4 +9,5 @@ Sleepy Time, kullanıcıların uyku ve uyanma saatlerini belirleyerek bu zamanla
 - Uyku başlangıcından 15 dakika önce kullanıcıya “İyi Geceler” bildirimi gönderilir.
 - Uyku bitişinden 15 dakika sonra kullanıcıya “Günaydın” bildirimi gönderilir.
 
-![Uploading Ekran Resmi 2025-01-23 22.17.53.png…]()
+
+![Adsız tasarım (11)](https://github.com/user-attachments/assets/0a5705ff-f98c-4dd2-8f47-61790c9506df)
